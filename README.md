@@ -19,6 +19,7 @@
 <ul>
 <li>- NextJs (Utilizado para construir o FrontEnd da aplicação);</li>
 <li>- NextAuth (Fazer a autenticação de login do usuario com o GitHUb);</li>
+<li>- TypeScript (Utilizado para fazer as tipagens necessárias);</li> 
 <li>- Stripe (para fazer os pagamentos das assinaturas);</li>
 <li>- FaunaDB (Utilizado para armazenar dodos do usuarios e de suas assinaturas);</li>
 <li>- Prismic (CMS utilizado para criar os posts e desponibiliza-los para serem consumidos pela aplicação);</li>
